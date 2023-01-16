@@ -1,0 +1,50 @@
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.items-center{
+    justify-content: center;
+    align-items: center;
+}
+
+.flex{
+    display: flex;
+}
+.row input{
+    padding: 0.3em 0.3em;
+    margin: 1em 0em;
+    border-width: 0.2em;
+    border-radius: 0.5em;
+    font-size: 1.7em;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.bg-red{
+    background: red;
+}
+.mw20{
+    max-width: 8em;
+}
+.btn{
+    text-align: center;
+    font-size: 1em;
+    height: 4em;
+    width: 5em;
+    margin: 0.3em 0.2em;
+    border-radius: 2em;
+    font-weight: 500;
+}
+.btn2{
+    font-size: 1em;
+    font-weight: 500;
+    height: 4em;
+    width: 10.8em;
+    border-radius: 2em;
+}
